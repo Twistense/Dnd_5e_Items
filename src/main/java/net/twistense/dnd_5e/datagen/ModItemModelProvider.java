@@ -10,6 +10,7 @@ import net.minecraftforge.registries.RegistryObject;
 import net.twistense.dnd_5e.DnD5eMod;
 import net.twistense.dnd_5e.Items.ArtifactItems;
 import net.twistense.dnd_5e.Items.CommonItems;
+import net.twistense.dnd_5e.Items.LegendaryItems;
 
 public class ModItemModelProvider extends ItemModelProvider {
     public ModItemModelProvider(PackOutput output, ExistingFileHelper existingFileHelper) {
@@ -43,6 +44,8 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ArtifactItems.SWORD_OF_ZARIEL);
         handheldItem(ArtifactItems.THE_BLOODY_END);
         handheldItem(ArtifactItems.WILL_OF_THE_TALON);
+
+        handheldItem(LegendaryItems.BLACKRAZOR);
 
     }
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

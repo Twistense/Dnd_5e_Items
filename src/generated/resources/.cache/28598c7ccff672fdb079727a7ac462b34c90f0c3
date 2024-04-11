@@ -1,8 +1,9 @@
-// 1.20.1	2024-04-10T23:32:09.6821032	Item Models: dnd_5e
+// 1.20.1	2024-04-11T03:05:10.3469617	Item Models: dnd_5e
 7e220a057c28e966311006465bc89d1b8f9bfb47 assets/dnd_5e/models/item/akmon_the_hammer_of_purphoros.json
 94edebb8fd5dd2f49fb007ca6dbb41c0c0dc5e7a assets/dnd_5e/models/item/artifact_material.json
 06b158264eae608e25d4d42c2d8516fad08eb0f4 assets/dnd_5e/models/item/axe_of_adze.json
 790e5ead49173e744a5981781827117824e48914 assets/dnd_5e/models/item/axe_of_the_dwarvish_lords.json
+898e58036e65e57c60775df1d254124172de529f assets/dnd_5e/models/item/blackrazor.json
 96eb695c396d3e7d2cdf91858dbb2b9bca26fd0f assets/dnd_5e/models/item/blade_of_avernus.json
 19a6a999d64ecddece4fb50265aea5f9f8513fd9 assets/dnd_5e/models/item/blade_of_broken_mirrors.json
 72704fdcab8e33a410cd75b9ec62255cdac20198 assets/dnd_5e/models/item/common_material.json

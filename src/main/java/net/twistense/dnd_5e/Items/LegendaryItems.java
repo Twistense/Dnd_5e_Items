@@ -31,7 +31,7 @@ public class LegendaryItems {
     public static final RegistryObject<Item> MOONBLADE = LEGENDARY.register("moonblade", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
     public static final RegistryObject<Item> NEPENTHE = LEGENDARY.register("nepenthe", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
     public static final RegistryObject<Item> NIGHTBRINGER = LEGENDARY.register("nightbringer", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
-    public static final RegistryObject<Item> ORCSPLITTER = LEGENDARY.register("orcesplitter", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
+    public static final RegistryObject<Item> ORCSPLITTER = LEGENDARY.register("orcsplitter", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
     public static final RegistryObject<Item> RAKDOS_RITEKNIFE = LEGENDARY.register("rakdos_riteknife", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
     public static final RegistryObject<Item> REAPERS_SCREAM = LEGENDARY.register("reapers_scream", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
     public static final RegistryObject<Item> RED_WIZARD_BLADE = LEGENDARY.register("red_wizard_blade", () -> new SwordItem(ModToolTiers.LEGENDARY_TOOL, 100, 4, new Item.Properties()));
