@@ -25,10 +25,11 @@ public class ModCreativeModeTabs {
                 pOutput.accept(CommonItems.RARE_MATERIAL.get());
                 pOutput.accept(CommonItems.EPIC_MATERIAL.get());
                 pOutput.accept(CommonItems.LEGENDARY_MATERIAL.get());
+                pOutput.accept(CommonItems.ARTIFACT_MATERIAL.get());
 
-                //add the weapons to the creative tab
-                pOutput.accept(ArtifactItems.ADZE_OFANNAM.get());
+                //add the artifact weapons to the creative tab
                 pOutput.accept(ArtifactItems.AKMON_THE_HAMMER_OF_PURPHOROS.get());
+                pOutput.accept(ArtifactItems.ADZE_OF_ANNAM.get());
                 pOutput.accept(ArtifactItems.AXE_OF_THE_DWARVISH_LORDS.get());
                 pOutput.accept(ArtifactItems.BLADE_OF_AVERNUS.get());
                 pOutput.accept(ArtifactItems.BLADE_OF_BROKEN_MIRRORS.get());
@@ -46,6 +47,7 @@ public class ModCreativeModeTabs {
                 pOutput.accept(ArtifactItems.THE_BLOODY_END.get());
                 pOutput.accept(ArtifactItems.WILL_OF_THE_TALON.get());
 
+                //add the legendary weapons to the creative tab
                 pOutput.accept(LegendaryItems.AZUREDGE.get());
                 pOutput.accept(LegendaryItems.BLACKRAZOR.get());
                 pOutput.accept(LegendaryItems.BOOKMARK.get());
@@ -84,7 +86,8 @@ public class ModCreativeModeTabs {
                 pOutput.accept(LegendaryItems.WHELM.get());
                 pOutput.accept(LegendaryItems.WINDVANE.get());
 
-                pOutput.accept(EpicItems.ARROW_OF_SLAYING.get());
+                //add the epic weapons to the creative tab
+
             })
             .build());
 

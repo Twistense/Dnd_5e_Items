@@ -25,7 +25,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(CommonItems.LEGENDARY_MATERIAL);
         simpleItem(CommonItems.ARTIFACT_MATERIAL);
 
-        handheldItem(ArtifactItems.ADZE_OFANNAM);
+        handheldItem(ArtifactItems.ADZE_OF_ANNAM);
         handheldItem(ArtifactItems.AKMON_THE_HAMMER_OF_PURPHOROS);
         handheldItem(ArtifactItems.AXE_OF_THE_DWARVISH_LORDS);
         handheldItem(ArtifactItems.BLADE_OF_AVERNUS);

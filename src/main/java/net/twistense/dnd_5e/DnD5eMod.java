@@ -31,7 +31,7 @@ public class DnD5eMod
         RareItems.register(modEventBus);
         EpicItems.register(modEventBus);
         LegendaryItems.register(modEventBus);
-
+        ArtifactItems.register(modEventBus);
 
 
         modEventBus.addListener(this::commonSetup);
