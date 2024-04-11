@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "dnd_5e:item/mace_of_the_black_crown"
+  }
+}

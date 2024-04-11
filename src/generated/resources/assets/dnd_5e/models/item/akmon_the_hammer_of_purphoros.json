@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "dnd_5e:item/akmon_the_hammer_of_purphoros"
+  }
+}

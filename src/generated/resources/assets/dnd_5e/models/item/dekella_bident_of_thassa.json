@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "dnd_5e:item/dekella_bident_of_thassa"
+  }
+}

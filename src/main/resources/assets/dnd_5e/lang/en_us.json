@@ -1,0 +1,28 @@
+{
+  "block.dnd_5e.artificer_table": "Artificer Training Table",
+  "block.dnd_5e.barbarian_table": "Barbarian Training Table",
+  "block.dnd_5e.bard_table": "Bard Training Table",
+  "block.dnd_5e.blood_hunter_table": "Blood Hunter Training Table",
+  "block.dnd_5e.cleric_table": "Cleric Training Table",
+  "block.dnd_5e.druid_table": "Druid Training Table",
+  "block.dnd_5e.fighter_table": "Fighter Training Table",
+  "block.dnd_5e.monk_table": "Monk Training Table",
+  "block.dnd_5e.paladin_table": "Paladin Training Table",
+  "block.dnd_5e.ranger_table": "Ranger Training Table",
+  "block.dnd_5e.rogue_table": "Rogue Training Table",
+  "block.dnd_5e.sorceror_table": "Sorceror Training Table",
+  "block.dnd_5e.warlock_table": "Warlock Training Table",
+  "block.dnd_5e.wizard_table": "Wizard Training Table",
+
+  "item.dnd_5e.common_material": "Common Material",
+  "item.dnd_5e.uncommon_material": "Uncommon Material",
+  "item.dnd_5e.rare_material": "Rare Material",
+  "item.dnd_5e.epic_material": "Epic Material",
+  "item.dnd_5e.legendary_material": "Legendary Material",
+  "item.dnd_5e.axe_of_adze": "The Axe of Adze",
+  "item.dnd_5e.blackrazor": "Blackrazor",
+
+  "tooltip.dnd_5e.artificer_table.toolip": "This lets you level up in the way of the Artificer",
+
+  "creativemodetab.dnd_5e_tab": "DnD 5e"
+}
